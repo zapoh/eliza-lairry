@@ -44,6 +44,7 @@ const webSearch: Action = {
         "WEB_LOOKUP",
         "ONLINE_SEARCH",
         "FIND_INFORMATION",
+        "LATEST_NEWS"
     ],
     description:
         "Perform a web search to find information related to the message.",
